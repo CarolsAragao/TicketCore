@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/API/">
+    <Project Path="TicketCore.API/TicketCore.API.csproj" />
+  </Folder>
+  <Folder Name="/Application/">
+    <Project Path="../TicketCore.Application/TicketCore.Application.csproj" />
+  </Folder>
+  <Folder Name="/Domain/">
+    <Project Path="../TicketCore.Domain/TicketCore.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="../TicketCore.Infrastructure/TicketCore.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/IoC/">
+    <Project Path="../TicketCore.IoC/TicketCore.IoC.csproj" />
+  </Folder>
+</Solution>
