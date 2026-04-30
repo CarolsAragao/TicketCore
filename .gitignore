@@ -361,3 +361,18 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Local .NET CLI cache used by this workspace
+.dotnet/
+
+# Optional local app settings
+appsettings.Local.json
+
+# OS-specific files
+.DS_Store
+Thumbs.db
